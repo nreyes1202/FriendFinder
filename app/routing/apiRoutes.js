@@ -31,4 +31,4 @@ module.exports = function (app) {
 
 }
 
-//make a jquery ajax call to API route to get survery results from survey.html
+//make a jquery ajax call to API route to get survey results from survey.html
